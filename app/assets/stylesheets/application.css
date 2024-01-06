@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+.container {
+  width: 700px;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Roboto Slab";
+}
